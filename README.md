@@ -5,10 +5,10 @@ This is a program that can segregate waster using Keras, Tensorflow, OpenCV for 
 This project is trained on a waste classificaation kaggle dataset which is on this repo as data.zip
 
 ## How to train 
-1. Download the dataset
+1. Download data.zip and model.zip (ignore if cloning/downloading this repo)
 2. Run on cmd: 
     `pip install -r requirements.txt`
-3. Place the data zip file into the same repo as the train.py file (ignore if cloning the repo)
+3. Place the data zip file into the same repo as the train.py file (ignore if cloning/downloading the repo)
 4. Go into the directory train.py is located in and run train.py on cmd using:
     `python train.py`
 
